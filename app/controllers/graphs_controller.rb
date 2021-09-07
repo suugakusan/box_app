@@ -2,7 +2,7 @@ class GraphsController < ApplicationController
   def index
     category = ['1', '2', '3', '4', '5']
     current_quantity =[
-      [760, 801, 848, 895, 965],
+      [760, 801, 848, 895, 5],
       [733, 853, 939, 980, 1080],
       [714, 762, 817, 870, 918],
       [724, 802, 806, 871, 950],
